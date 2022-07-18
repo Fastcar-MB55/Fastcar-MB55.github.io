@@ -214,9 +214,9 @@ section {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #4154f1;
+  color: #616ddb;
 }
-.navbar .getstarted, .navbar .getstarted:focus {
+/*.navbar .getstarted, .navbar .getstarted:focus {
   background: #4154f1;
   padding: 8px 20px;
   margin-left: 30px;
@@ -226,7 +226,7 @@ section {
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
   background: #5969f3;
-}
+}*/
 .navbar .dropdown ul {
   display: block;
   position: absolute;

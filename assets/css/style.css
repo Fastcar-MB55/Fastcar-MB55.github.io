@@ -38,7 +38,7 @@ section {
 
 .section-header {
   text-align: center;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 .section-header h2 {
   font-size: 13px;
@@ -201,7 +201,7 @@ section {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #013289;
+  color: #00060f;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -211,7 +211,7 @@ section {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #616ddb;
+  color: #959cdc;
 }
 /*.navbar .getstarted, .navbar .getstarted:focus {
   background: #4154f1;

@@ -181,7 +181,7 @@ section {
 * Desktop Navigation 
 */
 .navbar {
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 .navbar ul {
   margin: 0;
@@ -457,7 +457,7 @@ section {
 --------------------------------------------------------------*/
 .about .content {
   background-color: #f6f9ff;
-  padding: 40px,40px,40px,70px;
+  padding: 40px;
 }
 .about h3 {
   font-size: 14px;

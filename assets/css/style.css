@@ -910,7 +910,7 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
-.portfolio #portfolio-flters {
+/*.portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 25px auto;
   list-style: none;
@@ -1059,11 +1059,11 @@ section {
   bottom: 15px;
   right: 15px;
 }
-
+*/
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
-.portfolio-details {
+/*.portfolio-details {
   padding-top: 40px;
 }
 .portfolio-details .portfolio-details-slider img {
@@ -1112,8 +1112,8 @@ section {
 }
 .portfolio-details .portfolio-description p {
   padding: 0;
-}
-
+} 
+*/
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/

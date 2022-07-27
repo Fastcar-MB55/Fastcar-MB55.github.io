@@ -707,7 +707,7 @@ section {
   font-size: 18px;
 }
 .services .service-box.blue {
-  border-bottom: 3px solid #2db6fa;
+  border: 3px solid #2db6fa;
 }
 .services .service-box.blue .icon {
   color: #2db6fa;

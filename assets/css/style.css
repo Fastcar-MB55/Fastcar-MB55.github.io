@@ -720,7 +720,7 @@ section {
   background: #2db6fa;
 }
 .services .service-box.orange {
-  border-bottom: 3px solid #f68c09;
+  border: 3px solid #f68c09;
 }
 .services .service-box.orange .icon {
   color: #f68c09;
@@ -733,7 +733,7 @@ section {
   background: #f68c09;
 }
 .services .service-box.green {
-  border-bottom: 3px solid #08da4e;
+  border: 3px solid #08da4e;
 }
 .services .service-box.green .icon {
   color: #08da4e;

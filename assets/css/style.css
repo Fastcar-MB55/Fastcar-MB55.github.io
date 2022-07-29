@@ -475,7 +475,14 @@ section {
 .about img {
     padding-top: 45px;
 
-} /*
+}
+.about i .big-icon{
+   font-size: 70px
+}
+  
+  
+  
+  /*
 .about .btn-read-more {
   line-height: 0;
   padding: 15px 40px;

@@ -790,7 +790,48 @@ section {
 .services .service-box:hover .icon {
   background: #fff;
 }
-
+.services .service-icons .social-links a {
+  font-size: 20px;
+  display: inline-block;
+  color: rgba(1, 41, 112, 0.5);
+  line-height: 0;
+  margin-right: 10px;
+  transition: 0.3s;
+}
+.services .service-icons {
+  margin-top: 120px;
+}
+.services .service-icons h3 {
+  color: #012970;
+  font-weight: 700;
+  font-size: 32px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .services .service-icons h3 {
+    font-size: 28px;
+  }
+}
+.services .service-icons .content .icon-box {
+  display: flex;
+}
+.services .service-icons .content .icon-box h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+  color: #012970;
+}
+.services .service-icons .content .icon-box i {
+  font-size: 44px;
+  line-height: 44px;
+  color: #0245bc;
+  margin-right: 15px;
+}
+.services .service-icons .content .icon-box p {
+  font-size: 15px;
+  color: #848484;
+}
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------

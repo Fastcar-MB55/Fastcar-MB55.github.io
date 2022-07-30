@@ -36,14 +36,23 @@ section {
   text-align: center;
   padding-bottom: 20px;
 }
-.section-header h2 {
-  font-size: 13px;
-  letter-spacing: 1px;
+
+.section-header h3 {
+  font-size: 14px;
   font-weight: 700;
-  margin: 0;
   color: #4154f1;
   text-transform: uppercase;
 }
+
+.section-header h2 {
+  font-size: 24px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin: 0;
+  color: #4154f970;
+  /*text-transform: uppercase; */
+}
+
 .section-header p {
   margin: 10px 0 0 0;
   padding: 0;
@@ -477,7 +486,8 @@ section {
 
 }
  
-   
+ 
+  
   /*
 .about .btn-read-more {
   line-height: 0;

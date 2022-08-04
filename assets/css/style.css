@@ -33,7 +33,7 @@ section {
 }
 .about .content {
   background-color: #f6f9ff;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 .about h3 {
   font-size: 14px;
@@ -299,7 +299,7 @@ section {
 
 /**
 * Mobile Navigation 
-*/
+
 .mobile-nav-toggle {
   color: #012970;
   font-size: 28px;
@@ -385,14 +385,14 @@ section {
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
-}
+}*/
 /*------------------------------------------
 -------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
 .about .content {
   background-color: #f6f9ff;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 .about h3 {
   font-size: 14px;
@@ -410,7 +410,7 @@ section {
   line-height: 24px;
 }
 .about img {
-    padding-top: 45px;
+    padding-top: 30px;
 
 }
 
@@ -418,7 +418,7 @@ section {
 /*--------------------------------------------------------------
 # Features
 --------------------------------------------------------------*/
-.features .feature-box {
+/* .features .feature-box {
   padding: 24px 20px;
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
   transition: 0.3s;
@@ -521,7 +521,7 @@ section {
   font-size: 15px;
   color: #848484;
 }
-
+*/
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -599,7 +599,7 @@ section {
 .services .service-box.green:hover {
   background: #08da4e;
 }
-.services .service-box.red {
+/*.services .service-box.red {
   border-bottom: 3px solid #e9222c;
 }
 .services .service-box.red .icon {
@@ -637,7 +637,7 @@ section {
 }
 .services .service-box.pink:hover {
   background: #f51f9c;
-}
+}*/
 .services .service-box:hover h3, .services .service-box:hover p, .services .service-box:hover .read-more {
   color: #fff;
 }
@@ -697,7 +697,7 @@ section {
   padding: 0 0 30px 0;
   font-size: 14px;
 }
-.footer .footer-newsletter {
+/*.footer .footer-newsletter {
   padding: 50px 0;
   background: #f6f9ff;
   border-top: 1px solid #e1ecff;
@@ -747,7 +747,7 @@ section {
   border-top: 1px solid #e1ecff;
   border-bottom: 1px solid #e1ecff;
   padding: 60px 0 30px 0;
-}
+}*/
 @media (max-width: 992px) {
   .footer .footer-top {
     background-position: center bottom;

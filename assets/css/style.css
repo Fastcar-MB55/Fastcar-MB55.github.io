@@ -31,25 +31,6 @@ section {
   padding: 60px 0;
   overflow: hidden;
 }
-.about .content {
-  background-color: #f6f9ff;
-  padding-top: 30px;
-}
-.about h3 {
-  font-size: 14px;
-  font-weight: 700;
-  color: #4154f1;
-  text-transform: uppercase;
-}
-.about h2 {
-  font-size: 24px;
-  font-weight: 700;
-  color: #012970;
-}
-.about p {
-  margin: 30px 0 15px 0;
-  line-height: 24px;
-}
 .section-header {
   padding-bottom: 20px;
 }
@@ -525,6 +506,19 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+
+.services-header h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
+  text-align: center;
+}
+.services h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
+}
+
 .services .service-box {
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
   height: 100%;

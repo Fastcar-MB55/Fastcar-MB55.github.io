@@ -1,16 +1,16 @@
 <h2 align="center">Repository: Fastcar-MB55.github.io</h2>
 
-#### Project Title: My Project Portfolio
+### Project Title: My Project Portfolio
 
-#### Description of Project 
+### Description of Project 
 ##### This repo contains a landing page and a project page that will be used to host my portfolio of projects. As of today I have linked three project repos to these web pages. Also there's a simple navigation menu at the top of each page.
 
 
-#### How to run this project.
+### How to run this project.
 ##### You can fork this repo to your GitHub account or you can copy and download the repo to your PC by clicking on the green code button and selecting Download ZIP
 
 
-#### Roadmap of future improvements: This should be a few sentences describing what you plan to work on next in this repository. 
+### Roadmap of future improvements: 
 ##### I would like to add additional projects and animation.
 
 

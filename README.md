@@ -3,15 +3,15 @@
 #### Project Title: My Project Portfolio
 
 #### Description of Project 
-###### This repo contains a landing page and a project page that will be used to host my portfolio of projects. As of today I have linked three project repos to these web pages. Also there's a simple navigation menu at the top of each page.
+##### This repo contains a landing page and a project page that will be used to host my portfolio of projects. As of today I have linked three project repos to these web pages. Also there's a simple navigation menu at the top of each page.
 
 
 #### How to run this project.
-###### You can fork this repo to your GitHub account or you can copy and download the repo to your PC by clicking on the green code button and selecting Download ZIP
+##### You can fork this repo to your GitHub account or you can copy and download the repo to your PC by clicking on the green code button and selecting Download ZIP
 
 
 #### Roadmap of future improvements: This should be a few sentences describing what you plan to work on next in this repository. 
-###### I would like to add additional projects and animation.
+##### I would like to add additional projects and animation.
 
 
 #####
